@@ -5,6 +5,6 @@ The following are some project ideas for full stack development. The list is not
 
  - Streamyard clone
  - Google docs clone
- - Google meet clone
- - Google drive clone
+ - Google meet clone => ecommerce clone
+ - Google drive clone => socialmedia/ spotify clone
  - Leetcode clone
