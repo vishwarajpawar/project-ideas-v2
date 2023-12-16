@@ -5,7 +5,9 @@ The following are some project ideas for full stack development. The list is not
 
  - Streamyard clone => nextjs and nestjs 
  - Google docs clone => reactjs with typecript , express
- - Google meet clone => ecommerce clone => next js and nestjs pirsma postgres/ supabase
- - Google drive clone => socialmedia/ spotify clone
- - Leetcode clone => react js with typescript and express
+ - e-commerce clone => next js and nestjs pirsma postgres/ supabase
+ - socialmedia/ spotify clone
+ - topvote => MERN stack
+ - youtube content pipeline => Trpc, reactjs
+ - LLM/ use chat gpt with app
    
