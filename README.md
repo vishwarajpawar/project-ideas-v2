@@ -10,4 +10,6 @@ The following are some project ideas for full stack development. The list is not
  - topvote => MERN stack
  - youtube content pipeline => Trpc, reactjs
  - LLM/ use chat gpt with app
-   
+ - Framer
+ - LLM aggregator
+ - Real-Time distributed chat
