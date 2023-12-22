@@ -13,3 +13,4 @@ The following are some project ideas for full stack development. The list is not
  - Framer
  - LLM aggregator
  - Real-Time distributed chat
+ - code theme genrator
